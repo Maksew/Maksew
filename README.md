@@ -1,84 +1,46 @@
-<h2 align="center">Python Developer Specializing in Applications and Automation for Time-Efficiency</h2>
+# Bonjour, je suis Maksew (Maxime) ! 👋
 
----
+Bienvenue sur mon profil GitHub ! Je suis un développeur Python spécialisé dans les applications et l'automatisation pour l'efficacité du temps. Vous trouverez ici une collection de mes projets et contributions.
 
-### 🤝 Connect with me:
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/maxime-perrier-15b459229" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <!-- Email -->
-  <a href="mailto:maxime.perrier@etu.unilim.fr">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
-  </a>
-</p>
+## À Propos de Moi 📚
 
----
+- 🐍 Développeur Python dédié à la construction d'applications et à la création de solutions d'automatisation.
+- 🏃‍♂️ Intéressé par le sport et le domaine médical.
+- 🧠 Curieux des applications de l'intelligence artificielle.
+  
+## Technologies et Outils Maîtrisés 💻
 
+### Langages de Programmation
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
+### Développement et Frameworks
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+### Outils de Développement et Gestion
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-### 💻 Languages and Tools:
-<p align="left">
-   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Hexo -->
-  <a href="https://hexo.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- Jest -->
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Symfony -->
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-  </a>
-  <!-- Xamarin -->
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
-  </a>
-</p>
+### Développement Web
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+## Projets Préférés 🚀
 
-### 🚀 About Me:
-I am a dedicated Python developer with a passion for building applications and creating automation solutions that enhance efficiency and save time. With a keen interest in exploring new technologies and tackling challenging problems, I strive to deliver high-quality software that meets and exceeds expectations.
+- [SkinPortGestion](https://github.com/Maksew/SkinPortGestion) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - Système de gestion de skins, conçu en Python pour une gestion efficace.
 
+- [WebPageAutoF5](https://github.com/Maksew/WebPageAutoF5) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - Outil Python permettant de rafraîchir automatiquement les pages web, utile pour des applications comme PowerBI.
 
+- [Laravel-WebCars](https://github.com/Maksew/Laravel-WebCars) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  - Site web de gestion de voitures avec fonctionnalités de notation et d'avis, développé en Laravel.
 
+- [StarsPerlinAnimationGif](https://github.com/Maksew/StarsPerlinAnimationGif) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - Générateur d'animations GIF de constellations, utilisant le bruit de Perlin pour créer des frames dynamiques en Python.
+
+- [TodoListKotlin](https://github.com/Maksew/TodoListKotlin) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+  - Application mobile de gestion de tâches, développée en Kotlin.
+  
+
+## Contact 📫
+
+- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/maximeperrier)
+- Email: [maxime.perrier@etu.unilim.fr](mailto:maxime.perrier@etu.unilim.fr)
