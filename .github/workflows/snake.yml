@@ -1,7 +1,7 @@
 name: Generate Snake Game
 
 on:
-  workflow_dispatch:  # Permet de déclencher le workflow manuellement
+  workflow_dispatch:
   schedule:
     - cron: '0 14 * * *'
 
@@ -16,3 +16,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+      - name: Commit and push if there's changes
+        run: |
+          git fetch
+          git checkout output || git checkout -b output
+          git add dist/*.svg
+          git commit -m "UPDATE: Snake game output" || exit 0
+          git push origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
