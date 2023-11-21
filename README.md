@@ -1,6 +1,11 @@
 # Bonjour, je suis Maksew (Maxime) ! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur Python spécialisé dans les applications et l'automatisation pour l'efficacité du temps. Vous trouverez ici une collection de mes projets et contributions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 
 ## À Propos de Moi 📚
 
