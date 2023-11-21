@@ -1,10 +1,7 @@
 # Bonjour, je suis Maksew (Maxime) ! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Maksew/Maksew/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Maksew/Maksew/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake Game" src="https://github.com/Maksew/Maksew/blob/output/github-snake.svg" />
-</picture>
+![GitHub Snake Light](https://github.com/Maksew/Maksew/blob/output/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Maksew/Maksew/blob/output/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## À Propos de Moi 📚
 
