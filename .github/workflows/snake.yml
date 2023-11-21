@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Set up Git identity
+        run: |
+          git config user.name 'Maksew'
+          git config user.email 'maxime.perrier@etu.unilim.fr'
       - uses: Platane/snk@v3
         with:
           github_user_name: Maksew
