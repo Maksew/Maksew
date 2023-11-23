@@ -24,8 +24,9 @@ jobs:
         run: |
           git fetch
           git checkout output || git checkout -b output
+          git pull origin output --rebase
           git add dist/*.svg
-          git commit -m "UPDATE: Snake game output" || exit 0
+          git commit -m "UPDATE: Snake Game output" || exit 0
           git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
