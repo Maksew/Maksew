@@ -23,6 +23,7 @@ jobs:
       - name: Commit and push if there's changes
         run: |
           git fetch
+          git reset --hard HEAD 
           git checkout output || git checkout -b output
           git pull origin output --rebase
           git add dist/*.svg
@@ -30,3 +31,4 @@ jobs:
           git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
