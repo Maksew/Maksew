@@ -24,11 +24,12 @@ jobs:
         run: |
           git fetch
           git reset --hard HEAD 
-          git checkout output || git checkout -b output
-          git pull origin output --rebase
+          git checkout main || git checkout -b main
+          git pull origin main --rebase
           git add dist/*.svg
           git commit -m "UPDATE: Snake Game output" || exit 0
-          git push origin output
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
