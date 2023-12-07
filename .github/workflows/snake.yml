@@ -31,7 +31,8 @@ jobs:
           git checkout main || git checkout -b main
           git pull origin main --rebase
           git add dist/*.svg
-          git commit -m "UPDATE: Snake Game output"
+          git diff --staged --quiet || git commit -m "UPDATE: Snake Game output"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
