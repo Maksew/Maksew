@@ -24,8 +24,8 @@
 
 ## Favorite Projects 🚀
 
-- [SkinPortGestion](https://github.com/Maksew/SkinPortGestion) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - A skin management system, designed in Python for efficient management.
+- [GestionCSkin](https://github.com/Maksew/GestionSkinPort) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  - A skin management system, designed in C# for efficient management.
 
 - [WebPageAutoF5](https://github.com/Maksew/WebPageAutoF5) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   - A Python tool for automatically refreshing web pages, useful for applications like PowerBI.
