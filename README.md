@@ -4,8 +4,9 @@
 
 ## About Me 📚
 
-- 🐍 Dedicated Python Developer focused on building applications and creating automation solutions.
-- 🏃‍♂️ Interested in sports and the medical field.
+- 🐍 Python Developer | Building applications and automation solutions | Experience with projects at Legrand.
+- 💻 C# Developer | Developing robust software solutions | Notable projects at Legrand.
+- 🏃‍♂️ Passionate sports enthusiast with regular athletic engagement, deeply fascinated by biology, particularly human anatomy and physiology.
 - 🧠 Curious about the applications of artificial intelligence.
 
 ## Mastered Technologies and Tools 💻
