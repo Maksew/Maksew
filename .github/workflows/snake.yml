@@ -1,23 +1,25 @@
 name: Generate Snake Game
 
 on:
+  push:
+    branches:
+      - output
   workflow_dispatch:
   schedule:
     - cron: '0 14 * * *'
+
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: output # Ceci assure que le checkout est sur la branche 'output'
       - name: Set up Git identity
         run: |
           git config user.name 'Maksew'
           git config user.email 'maxime.perrier@etu.unilim.fr'
-      - name: Remove old SVG files
-        run: |
-          rm -f dist/github-snake.svg
-          rm -f dist/github-snake-dark.svg
       - uses: Platane/snk@v3
         with:
           github_user_name: Maksew
@@ -27,12 +29,8 @@ jobs:
       - name: Commit and push if there's changes
         run: |
           git fetch
-          git reset --hard HEAD 
-          git checkout main || git checkout -b output
-          git pull origin main --rebase
           git add dist/*.svg
-          git diff --staged --quiet || git commit -m "UPDATE: Snake Game output"
-          git push origin main
+          git commit -m "UPDATE: Snake game output" || exit 0
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
