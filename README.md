@@ -41,5 +41,5 @@
 
 ## Contact 📫
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maximeperrier)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maxime-perrier-15b459229)
 - Email: [maxime.perrier@etu.unilim.fr](mailto:maxime.perrier@etu.unilim.fr)
