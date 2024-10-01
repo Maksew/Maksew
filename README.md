@@ -9,8 +9,6 @@
 - 💻 C# Developer | Developing robust software solutions | Notable projects at Legrand.
   
 - 🏃‍♂️ Health Tech Enthusiast | Combining a passion for sports with an interest in digital health and e-santé, exploring how technology can enhance well-being and health outcomes.
-  
-- 🧠 AI Explorer | Curious about the applications of artificial intelligence and eager to discover its potential in transforming industries and everyday life.
 
 ## Mastered Technologies and Tools 💻
 
