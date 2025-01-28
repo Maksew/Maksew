@@ -15,11 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: output # Ceci assure que le checkout est sur la branche 'output'
+          ref: output 
       - name: Set up Git identity
         run: |
           git config user.name 'Maksew'
-          git config user.email 'maxime.perrier@etu.unilim.fr'
+          git config user.email 'm1x6me@gmail.com'
       - uses: Platane/snk@v3
         with:
           github_user_name: Maksew
