@@ -6,11 +6,11 @@ Snake animation generated using [Platane/snk](https://github.com/Platane/snk)
 
 ## About Me 📚
 
-- 🐍 Python Developer | Specializing in small automation scripts and simple GUI applications.
-  
-- 💻 C# Developer | Developing robust software solutions | Notable projects at Legrand.
-  
-- 🏃‍♂️ Health Tech Enthusiast | Combining a passion for sports with an interest in digital health and e-santé, exploring how technology can enhance well-being and health outcomes.
+- 🏃‍♂️ Health Tech Enthusiast | Passionate about sports and digital health, exploring how technology can enhance well-being and optimize healthcare processes.
+
+- 🎓 Computer Engineering Student in e-Health | Currently studying to develop innovative technological solutions for the medical sector.
+
+- 💡 Innovation in Healthcare | Simply enjoy thinking about new solutions in medicine to help people.
 
 ## Mastered Technologies and Tools 💻
 
@@ -45,4 +45,4 @@ Snake animation generated using [Platane/snk](https://github.com/Platane/snk)
 ## Contact 📫
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maxime-perrier-15b459229)
-- Email: [maxime.perrier@etu.unilim.fr](mailto:maxime.perrier@etu.unilim.fr)
+- Email: [maxime.perrier@etud.univ-jfc.fr](mailto:maxime.perrier@etud.univ-jfc.fr)
