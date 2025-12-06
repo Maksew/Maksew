@@ -31,18 +31,3 @@ Snake animation generated using [Platane/snk](https://github.com/Platane/snk)
 ### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-
-
-## Favorite Projects 🚀
-
-- [GestionCSkin](https://github.com/Maksew/GestionCSkin) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  - A skin management system, designed in C# for efficient management.
-
-- [WebPageAutoF5](https://github.com/Maksew/WebPageAutoF5) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - A Python tool for automatically refreshing web pages, useful for applications like PowerBI.
-
-
-## Contact 📫
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maxime-perrier-15b459229)
-- Email: [maxime.perrier@etud.univ-jfc.fr](mailto:maxime.perrier@etud.univ-jfc.fr)
